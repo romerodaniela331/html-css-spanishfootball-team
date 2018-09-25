@@ -1,0 +1,49 @@
+*{
+  font-family: verdana, sans-serif;
+}
+body{
+  text-align: center;
+  background-color: #F6F6F6;
+}
+.h2style{
+  font-size: 25px;
+  font-weight: 600;
+  background-color: #E1BC29;
+  color: white;
+}
+.pstyle{
+  font-size: 20px;
+  font-weight: 100;
+}
+.h5style{
+text-align: left;
+font-size: 20px;
+text-decoration: underline;
+}
+#titlestyle{
+  font-size: 35px;
+  color: #E15554;
+}
+#logo{
+  width: 200px;
+}
+.coach{
+  font-size: 20px;
+  font-weight: 100;
+text-align: left;
+list-style: circle;
+}
+.capped{
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  }
+.bold{
+  font-weight: bold;
+}
+.link{
+  font-size: 20px;
+  color: #E15554;
+  text-decoration: none;
+  text-align: right;
+}
